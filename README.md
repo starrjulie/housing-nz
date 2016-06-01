@@ -24,7 +24,7 @@ We call it home, a history of state housing in NZ | By B Schrader, Reed Books, W
 ####Community Social Housing Providers
 [Register of community social housing providers](http://chra.mbie.govt.nz/about-chra/register/)	| Community Housing Registry Authority (MBIE) |	Webpage
 
-[List of community housing providers](http://www.communityhousing.org.nz/membership/members-directory/) |	Community Housing membership directory | Table on webpage	
+[List of members of Community Housing Aotearoa](http://www.communityhousing.org.nz/membership/members-directory/) |	Community Housing Aotearoa membership directory | Table on webpage, links to each member organisation's website
 
 ####Housing NZ
 [Brief history of state housing in NZ: 1905-now](http://www.hnzc.co.nz/about-us/history-of-state-housing) |	Housing NZ  | Webpage
@@ -46,6 +46,15 @@ We call it home, a history of state housing in NZ | By B Schrader, Reed Books, W
 [Housing stock](http://www.hnzc.co.nz/publications/housing-statistics/) | Ministry of Social Development | .xlsx, PDF
 
 [Vacant properties](http://www.hnzc.co.nz/publications/housing-statistics-2/) |  Ministry of Social Development | .xlsx, PDF
+
+####Work and Income (MSD)
+[Accommodation Supplement information for applicants](http://www.workandincome.govt.nz/individuals/a-z-benefits/accommodation-supplement.html) | Work and Income (MSD)
+
+[Benefit Rate Summaries](http://www.workandincome.govt.nz/map/deskfile/index.html)	| Work and Income (MSD)	
+
+[Benefit Rate Summary 2015](http://www.workandincome.govt.nz/map/documents/deskfile/benefit-rate-summaries/benefitratesummary-2015-04-01.pdf)	| Work and Income (MSD)	
+
+[Accommodation supplement calculator](http://www.workingforfamilies.govt.nz/calculator/index.jsp) |	Work and Income (MSD)	
 
 ####Reserve Bank
 
@@ -76,5 +85,9 @@ We call it home, a history of state housing in NZ | By B Schrader, Reed Books, W
 
 [Visualisation of main themes of John Key's speeches over the years](http://insights.nzherald.co.nz/article/john-key-speeches)	| Insights, NZ Herald 
 
-[Interactive map: how rents have change in your suburb](http://www.nzherald.co.nz/Harkanwal-Singh/news/article.cfm?a_id=930&objectid=11393120)	| Insights, NZ Herald 	
+[Interactive map: how rents have changed in your suburb](http://www.nzherald.co.nz/Harkanwal-Singh/news/article.cfm?a_id=930&objectid=11393120)	| Insights, NZ Herald 	
+
+[Housing-related graphs on FigureNZ](https://figure.nz/search/?query=housing&types=g,m,t) | Figure NZ | Embeddable graphs + links to data
+
+
 
