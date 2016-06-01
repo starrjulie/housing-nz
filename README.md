@@ -48,13 +48,19 @@ We call it home, a history of state housing in NZ | By B Schrader, Reed Books, W
 [Vacant properties](http://www.hnzc.co.nz/publications/housing-statistics-2/) |  Ministry of Social Development | .xlsx, PDF
 
 ####Work and Income (MSD)
-[Accommodation Supplement information for applicants](http://www.workandincome.govt.nz/individuals/a-z-benefits/accommodation-supplement.html) | Work and Income (MSD)
+[Accommodation Supplement information for applicants](http://www.workandincome.govt.nz/individuals/a-z-benefits/accommodation-supplement.html) | Work and Income (MSD) | [CC-BY-3.0-NZ](http://creativecommons.org/licenses/by/3.0/nz/legalcode)
 
-[Benefit Rate Summaries](http://www.workandincome.govt.nz/map/deskfile/index.html)	| Work and Income (MSD)	
+[Benefit Rate Summaries](http://www.workandincome.govt.nz/map/deskfile/benefit-rate-summaries/index.html)	| Work and Income (MSD)	| PDFs | [CC-BY-3.0-NZ](http://creativecommons.org/licenses/by/3.0/nz/legalcode)
 
-[Benefit Rate Summary 2015](http://www.workandincome.govt.nz/map/documents/deskfile/benefit-rate-summaries/benefitratesummary-2015-04-01.pdf)	| Work and Income (MSD)	
+[Benefit Rate Summary 2015](http://www.workandincome.govt.nz/map/documents/deskfile/benefit-rate-summaries/benefitratesummary-2015-04-01.pdf)	| Work and Income (MSD)	| PDF | [CC-BY-3.0-NZ](http://creativecommons.org/licenses/by/3.0/nz/legalcode)
 
 [Accommodation supplement calculator](http://www.workingforfamilies.govt.nz/calculator/index.jsp) |	Work and Income (MSD)	
+
+[Income and asset thresholds for social housing](http://www.workandincome.govt.nz/map/deskfile/social-housing-tables/limits-and-thresholds-current.html) | Work and Income (MSD) | Table on webpage + links to earlier thresholds |  [CC-BY-3.0-NZ](http://creativecommons.org/licenses/by/3.0/nz/legalcode)
+
+[Links to formulas for working out assessable income (eligibility for social housing)](http://www.workandincome.govt.nz/map/social-housing/assessment-of-eligibility/assessable-income-01.html) | Work and Income (MSD) | Webpage with links | [CC-BY-3.0-NZ](http://creativecommons.org/licenses/by/3.0/nz/legalcode)
+
+[Minimum Wage](http://www.workandincome.govt.nz/map/deskfile/minimum-wage/minimum-wage-current.html) | Work and Income (MSD) | Table on webpage + link to previous minimum wages | [CC-BY-3.0-NZ](http://creativecommons.org/licenses/by/3.0/nz/legalcode)
 
 ####Reserve Bank
 
