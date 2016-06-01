@@ -5,4 +5,4 @@ The list has been pulled together as part of a Newsable project looking at ways 
 
 http://newsable.nz/
 
-Newsable is participating in a teaching project at AUT's Co-Lab in the second semester of 2016. Students will focus on a housing-related theme and explore ways to share complex information with a target audience using whatever formats and tools they like. 
+Newsable is participating in a teaching project at AUT's Co-Lab in the second semester of 2016. Students will explore ways to share complex information with a target audience using whatever formats and tools they like. 
