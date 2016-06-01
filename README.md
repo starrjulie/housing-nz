@@ -5,7 +5,7 @@ Pulling the list together as part of a [Newsable](http://newsable.nz/) project l
 
 Newsable is participating in a teaching project at AUT's Co-Lab in the second semester of 2016. Students will explore ways to share complex information with a target audience using whatever formats and tools make sense. 
 
-### Papers & Books
+#### Papers & Books
 [The Housing We’d Choose](http://briefingpapers.co.nz/) | Briefing Papers	| Webpage
 
 [Where's the Plan, by Alison Cadman, CEO of Dwell Housing Trust](http://briefingpapers.co.nz/2015/07/wheres-the-plan/) | Briefing Papers | Webpage	
@@ -18,25 +18,27 @@ Newsable is participating in a teaching project at AUT's Co-Lab in the second se
 
 We call it home, a history of state housing in NZ | By B Schrader, Reed Books, Wellington 2015 | Book
 
-###Government Announcements
+####Government Announcements
 [Budget 2016 announcement 2016 on social and emergency housing funding](http://www.budget.govt.nz/budget/2016/at-a-glance/other.htm) | Press release | Webpage	
 
-###Community Social Housing Providers
+####Community Social Housing Providers
 [Register of community social housing providers](http://chra.mbie.govt.nz/about-chra/register/)	| Community Housing Registry Authority (MBIE) |	Webpage
 
 [List of community housing providers](http://www.communityhousing.org.nz/membership/members-directory/) |	Community Housing membership directory | Table on webpage	
 
-###Housing NZ
+####Housing NZ
 [Brief history of state housing in NZ: 1905-now](http://www.hnzc.co.nz/about-us/history-of-state-housing) |	Housing NZ  | Webpage
 
 [Brief history of names of state housing agencies in NZ: 1894-now](http://www.hnzc.co.nz/about-us/history-of-state-housing/state-housing-agencies) |	Housing NZ  | Webpage
 
-### MBIE
+[Briefing to minister/incoming minister](http://www.hnzc.co.nz/publications/briefing-to-the-incoming-minister/) | Housing NZ | PDFs |
+
+####MBIE
 [Portal for MBIE housing information](http://www.mbie.govt.nz/info-services/housing-property) | Links to MBIE statistics, affordability, retirement villages, Māori housing, crown housing projects
 
 [Rental bonds (quarterly, by region, by territorial authority)](http://www.mbie.govt.nz/info-services/housing-property/sector-information-and-statistics/rental-bond-data) | MBIE | .csv
 
-###Ministry of Social Development (MSD)
+####Ministry of Social Development (MSD)
 [Government's social housing reform programme](http://socialhousing.govt.nz/) |	Ministry of Social Development	| Webpage with links to data
 
 [Social housing register](http://www.housing.msd.govt.nz/information-for-housing-providers/register/index.html) |	Ministry of Social Development	| .xlsx
@@ -44,4 +46,7 @@ We call it home, a history of state housing in NZ | By B Schrader, Reed Books, W
 [Housing stock](http://www.hnzc.co.nz/publications/housing-statistics/) | Ministry of Social Development | .xlsx, PDF
 
 [Vacant properties](http://www.hnzc.co.nz/publications/housing-statistics-2/) |  Ministry of Social Development | .xlsx, PDF
+
+####NZ Fire Service
+[House fire probability tables](http://www.fire.org.nz/About-Us/Facts-and-Figures/Pages/Statistics-Data-Fields.html) |	NZ Fire Service | PDFs, can request data
 
