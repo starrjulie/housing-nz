@@ -36,6 +36,10 @@ We call it home, a history of state housing in NZ | By B Schrader, Reed Books, W
 ####MBIE
 [Portal for MBIE housing information](http://www.mbie.govt.nz/info-services/housing-property) | Links to MBIE statistics, affordability, retirement villages, Māori housing, crown housing projects
 
+[Market rent (interactive per area)](https://tenancy.govt.nz/rent-bond-and-bills/market-rent/)	| Tenancy Services (MBIE) |	
+
+[The Social Housing Unit](http://www.shu.govt.nz/) | MBIE | Funder of community housing providers
+
 [Rental bonds (quarterly, by region, by territorial authority)](http://www.mbie.govt.nz/info-services/housing-property/sector-information-and-statistics/rental-bond-data) | MBIE | .csv
 
 ####Ministry of Social Development (MSD)
@@ -69,6 +73,11 @@ We call it home, a history of state housing in NZ | By B Schrader, Reed Books, W
 [Key graphs on mortgage rates](http://www.rbnz.govt.nz/statistics/key-graphs/key-graph-mortgage-rates)	| Reserve Bank	| .xlsx
 
 [Key graphs on main economic indicators](http://www.rbnz.govt.nz/statistics/key-graphs)	| Reserve Bank	| .xlsx
+
+
+
+####Treasury
+[Social Housing Transactions page](http://www.treasury.govt.nz/statesector/socialhousing) (part of current social housing programme) |	Treasury	
 
 ####Statistics NZ
 [Dwelling & household estimates (# of dwellings and # of householders, rented/owned)](http://www.stats.govt.nz/browse_for_stats/population/estimates_and_projections/dwelling-and-household-estimates-info-releases.aspx) | Statistics NZ | .xlsx (More on InfoShare)		
