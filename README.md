@@ -5,27 +5,15 @@ Pulling the list together as part of a [Newsable](http://newsable.nz/) project l
 
 Newsable is participating in a teaching project at AUT's Co-Lab in the second semester of 2016. Students will explore ways to tell stories about complex issues to a target audience using whatever formats and tools make sense. 
 
-#### Papers & Books
-[The Housing We’d Choose](http://briefingpapers.co.nz/) | Briefing Papers	| Webpage
 
-[Where's the Plan, by Alison Cadman, CEO of Dwell Housing Trust](http://briefingpapers.co.nz/2015/07/wheres-the-plan/) | Briefing Papers | Webpage	| Useful mentions of earlier reports and papers
-
-[Building the future: towards a New Zealand Housing Strategy (2004)](http://www.urbancentre.utoronto.ca/pdfs/elibrary/NZHS_New-Zealand-Housing-St.pdf) | By then housing minister Steve Maharey | PDF
-
-[The Housing We’d Choose: A Study of Housing Preferences, Choices and Trade-Offs in Auckland](http://www.aucklandcouncil.govt.nz/SiteCollectionDocuments/aboutcouncil/planspoliciespublications/technicalpublications/tr2015016housingwedchoosewithappendices.pdf) |	Auckland Council | PDF
-
-[Homes People Can Afford: How to improve housing in New Zealand](http://steeleroberts.co.nz/product/homes-people-can-afford/) |	By Sarah Bierre, Philippa Howden-Chapman & Lisa Early (eds) | Book
-
-We call it home, a history of state housing in NZ | By B Schrader, Reed Books, Wellington 2015 | Book
-
-####Government Announcements
-[Budget 2016 announcement 2016 on social and emergency housing funding](http://www.budget.govt.nz/budget/2016/at-a-glance/other.htm) | Press release | Webpage	
 
 ####Community Social Housing Providers
 [Register of community social housing providers](http://chra.mbie.govt.nz/about-chra/register/)	| Community Housing Registry Authority (MBIE) |	Webpage
 
 [List of members of Community Housing Aotearoa](http://www.communityhousing.org.nz/membership/members-directory/) |	Community Housing Aotearoa membership directory | Table on webpage, links to each member organisation's website
 
+#### Research
+[Healthy Housing : He Kainga Oranga ](http://www.healthyhousing.org.nz/research/current-research/rental-housing/) | Research unit attached to University of Otago focused on rental housing, links between housing and health | Webpage with links to research publications
 ####Housing NZ
 [Brief history of state housing in NZ: 1905-now](http://www.hnzc.co.nz/about-us/history-of-state-housing) |	Housing NZ  | Webpage
 
@@ -74,8 +62,6 @@ We call it home, a history of state housing in NZ | By B Schrader, Reed Books, W
 
 [Key graphs on main economic indicators](http://www.rbnz.govt.nz/statistics/key-graphs)	| Reserve Bank	| .xlsx
 
-
-
 ####Treasury
 [Social Housing Transactions page](http://www.treasury.govt.nz/statesector/socialhousing) (part of current social housing programme) |	Treasury	
 
@@ -92,6 +78,21 @@ We call it home, a history of state housing in NZ | By B Schrader, Reed Books, W
 
 [Building consents issued](http://www.stats.govt.nz/browse_for_stats/industry_sectors/Construction/building-consents-issued-info-releases.aspx)	| Statistics NZ |	.xlsx
 
+#### Papers & Books
+[The Housing We’d Choose](http://briefingpapers.co.nz/) | Briefing Papers	| Webpage
+
+[Where's the Plan, by Alison Cadman, CEO of Dwell Housing Trust](http://briefingpapers.co.nz/2015/07/wheres-the-plan/) | Briefing Papers | Webpage	| Useful mentions of earlier reports and papers
+
+[Building the future: towards a New Zealand Housing Strategy (2004)](http://www.urbancentre.utoronto.ca/pdfs/elibrary/NZHS_New-Zealand-Housing-St.pdf) | By then housing minister Steve Maharey | PDF
+
+[The Housing We’d Choose: A Study of Housing Preferences, Choices and Trade-Offs in Auckland](http://www.aucklandcouncil.govt.nz/SiteCollectionDocuments/aboutcouncil/planspoliciespublications/technicalpublications/tr2015016housingwedchoosewithappendices.pdf) |	Auckland Council | PDF
+
+[Homes People Can Afford: How to improve housing in New Zealand](http://steeleroberts.co.nz/product/homes-people-can-afford/) |	By Sarah Bierre, Philippa Howden-Chapman & Lisa Early (eds) | Book
+
+We call it home, a history of state housing in NZ | By B Schrader, Reed Books, Wellington 2015 | Book
+
+####Government Announcements
+[Budget 2016 announcement 2016 on social and emergency housing funding](http://www.budget.govt.nz/budget/2016/at-a-glance/other.htm) | Press release | Webpage	
 ####NZ Fire Service
 [House fire probability tables](http://www.fire.org.nz/About-Us/Facts-and-Figures/Pages/Statistics-Data-Fields.html) |	NZ Fire Service | PDFs, can request data | Last published: 2012-13
 
